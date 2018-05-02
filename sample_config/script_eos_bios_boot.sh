@@ -1,0 +1,1 @@
+./eos-bios boot
